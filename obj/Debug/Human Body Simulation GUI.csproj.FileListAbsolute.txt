@@ -1,0 +1,10 @@
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\bin\Debug\Human Body Simulation GUI.exe.config
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\bin\Debug\Human Body Simulation GUI.exe
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\bin\Debug\Human Body Simulation GUI.pdb
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\obj\Debug\Human Body Simulation GUI.csprojAssemblyReference.cache
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\obj\Debug\Human_Body_Simulation_GUI.MainForm.resources
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\obj\Debug\Human_Body_Simulation_GUI.Properties.Resources.resources
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\obj\Debug\Human Body Simulation GUI.csproj.GenerateResource.cache
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\obj\Debug\Human Body Simulation GUI.csproj.CoreCompileInputs.cache
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\obj\Debug\Human Body Simulation GUI.exe
+C:\Cs Projects\Human Body Simulation GUI\Human Body Simulation GUI\obj\Debug\Human Body Simulation GUI.pdb
