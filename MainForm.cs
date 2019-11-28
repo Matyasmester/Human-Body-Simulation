@@ -31,6 +31,19 @@ namespace Human_Body_Simulation_GUI
             
         }
 
+        private void CheckStatuses()
+        {
+            if ((brain.isHungry() == false) && (Convert.ToInt32(timerBox.Text)) % 10 == 0)
+            {
+                brain.setHungry();
+            }
+
+            if((brain.isThirsty() == false) && (Convert.ToInt32(timerBox.Text)) % 10 == 0)
+            {
+                brain.setThirsty();
+            }
+        }
+
         private void WriteToBoxes()
         {
             HasEatenBox.Text = brain.isHungry().ToString();
@@ -51,6 +64,7 @@ namespace Human_Body_Simulation_GUI
         private void TimerBox_TextChanged(object sender, EventArgs e)
         {
             WriteToBoxes();
+            CheckStatuses();
         }
 
         private void EatButton_Click(object sender, EventArgs e)

@@ -41,7 +41,7 @@ namespace Human_Body_Simulation_GUI
 
         public bool isHungry()
         {
-            return this.hasEaten;
+            return !this.hasEaten;
         }
 
         public void setHungry()
@@ -51,7 +51,7 @@ namespace Human_Body_Simulation_GUI
 
         public bool isThirsty()
         {
-            return this.hasDrunk;
+            return !this.hasDrunk;
         }
 
         public void setThirsty()

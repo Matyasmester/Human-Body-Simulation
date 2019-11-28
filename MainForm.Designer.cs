@@ -83,9 +83,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 41);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(94, 13);
+            this.label2.Size = new System.Drawing.Size(85, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Has human eaten:";
+            this.label2.Text = "Is human hungry";
             // 
             // HasDrunkBox
             // 
@@ -104,9 +104,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(15, 160);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(94, 13);
+            this.label3.Size = new System.Drawing.Size(83, 13);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Has human drunk:";
+            this.label3.Text = "Is human thristy:";
             // 
             // EatButton
             // 
